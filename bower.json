@@ -1,0 +1,24 @@
+{
+  "name": "EnvironmentJS",
+  "authors": [
+    "Patrick Ashamalla <patrick.ashamalla@gmail.com>"
+  ],
+  "description": "Utility class to detect browser type and environment features.",
+  "main": "js/environment.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "util"
+  ],
+  "license": "MIT",
+  "homepage": "http://patrickashamalla.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
