@@ -1,7 +1,7 @@
 {
   "name": "EnvironmentJS",
   "authors": [
-    "Patrick Ashamalla <patrick.ashamalla@gmail.com>"
+    "Patrick Ashamalla"
   ],
   "description": "Utility class to detect browser type and environment features.",
   "main": "js/environment.js",
