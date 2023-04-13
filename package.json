@@ -1,0 +1,23 @@
+{
+  "name": "environment-js",
+  "version": "1.0.0",
+  "description": "Utility class to detect browser type and environment features.",
+  "main": "index.js",
+  "jest": {
+    "testEnvironment": "jsdom"
+  },
+  "scripts": {
+    "test": "test",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickash/environment-js.git"
+  },
+  "author": "Patrick Ashamalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickash/environment-js/issues"
+  },
+  "homepage": "https://github.com/patrickash/environment-js#readme"
+}
